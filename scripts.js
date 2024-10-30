@@ -1,5 +1,5 @@
 // Set the API endpoint
-const API_BASE_URL = "https://tt00kp4a2b.execute-api.us-east-1.amazonaws.com/dev";
+const API_BASE_URL = "";
 
 async function handleRegister(event) {
     event.preventDefault();
